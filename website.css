@@ -1,0 +1,84 @@
+.img1{
+	height: 300px;
+	width: 1850px;
+	border-bottom-style: double;
+	border-bottom-width: 20px;
+}
+.img2{
+	position: relative;
+	height: 200px;
+	width: 200px;
+	position:relative;
+}
+.img3{
+	height: 300px;
+	width: 1850px;
+	border-bottom-style: double;
+	border-top-style: double;
+	border-bottom-width: 20px;
+	border-top-width: 20px;
+	position: absolute;
+	top:940px;
+}
+.Name{
+	position: absolute;
+	font-size: 150px;
+	left:200px;
+	top:50px;
+}
+#Hobbies{
+	background-color: pink;
+	text-align: center;
+	position: relative;
+	font-size:40px;
+	width: 500px;
+	height: 600px;
+	border-right-style: double;
+	border-right-width: 10px;
+}
+.MEET{
+	background-color: red;
+	text-align: center;
+	left:670px;
+	bottom: 600px;
+	position: relative;
+	font-size:50px;
+	width: 500px;
+	height: 600px;
+	border-right-style: double;
+	border-left-style: double;
+	border-right-width: 10px;
+	border-left-width:  10px;
+}
+#Dog{
+	background-color: blue;
+	text-align: center;
+	position:relative;
+	bottom: 1200px;
+	left:1350px;
+	font-size:50px;
+	width: 500px;
+	height: 600px;
+	border-left-style: double;
+	border-left-width:  10px;
+}
+#p1{
+	color: blue
+}
+#p2{
+	color: red;
+}
+#p3{
+	color: pink;
+}
+
+#p1:hover{
+	color:black;
+}
+#p2:hover{
+	color:black;
+}
+#p3:hover{
+	color:black;
+}
+
